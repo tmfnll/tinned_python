@@ -5,13 +5,6 @@
       <change afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/tinned_python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/AUTHORS.rst" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/CONTRIBUTING.rst" afterDir="false" />
@@ -41,6 +34,12 @@
       <change afterPath="$PROJECT_DIR$/tinned_python/cli.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/tinned_python/tinned_python.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/tox.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/tinned_python.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +90,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1037" y="455" key="RollbackChangesDialog" timestamp="1584293574277">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1037" y="455" key="RollbackChangesDialog/2560.180.1440.900/0.0.2560.1440@0.0.2560.1440" timestamp="1584293574277" />
     <state x="781" y="359" key="SettingsEditor" timestamp="1584290644838">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
