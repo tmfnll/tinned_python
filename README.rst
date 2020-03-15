@@ -6,8 +6,8 @@ Tinned Python
 .. image:: https://img.shields.io/pypi/v/tinned_python.svg
         :target: https://pypi.python.org/pypi/tinned_python
 
-.. image:: https://img.shields.io/travis/tmfnll/tinned_python.svg
-        :target: https://travis-ci.com/tmfnll/tinned_python
+.. image:: https://github.com/tmfnll/tinned_python/workflows/Python%20package/badge.svg
+        :target: https://github.com/tmfnll/tinned_python/actions?query=workflow%3A%22Python+package%22
 
 .. image:: https://readthedocs.org/projects/tinned-python/badge/?version=latest
         :target: https://tinned-python.readthedocs.io/en/latest/?badge=latest
